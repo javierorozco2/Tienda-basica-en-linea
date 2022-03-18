@@ -1,0 +1,5 @@
+Memorias	496	2
+Ratones	3000	0.40
+Teclados	217	10
+Pantallas	30	40
+Impresoras	400	1
