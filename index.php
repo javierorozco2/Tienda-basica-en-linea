@@ -1,4 +1,4 @@
 <?php
 
-    header('Location: http://localhost/actividad3/welcome.php');
+    header('Location: http://localhost/welcome.php');
 ?>
